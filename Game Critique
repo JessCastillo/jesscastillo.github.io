@@ -1,0 +1,4 @@
+Hide and Seek
+A two player game where someone hides and the other seeks such as the popular childrens game. Very easy to play as the controls on what you can do are very limited and simple. After playing this game, here are a few things a tester should test for.
+
+One function that should be tested is players being able to connect to a game. This game solely relies being able to play against another player as the only game mode is hide and seek and doesn't have an Ai that you can play against.Another important feature is being able to transform as different objects successfully as being the hider and each objects hit box being targetable for the seeker to tag. Finally, being able to test for the balance of the game, you want to make sure that both players are able to play against eachother fairly as one class being over powered could limit who will play the other class.
