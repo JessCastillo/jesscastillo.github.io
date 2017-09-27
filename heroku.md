@@ -1,0 +1,2 @@
+The Heroku CI is a great tool that integrates with github that complies code and deploys it into a test app that can be easily edited and deployed again. For testing this is a great tool to run code and change it on the fly and then run again automatically. With the visual interface it makes it easy for user to understand the results. 
+Using this application for an online game project allows the team to easily share and spend less time trying to figure out which portion of code doesn't work. 
