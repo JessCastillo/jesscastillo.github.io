@@ -1,4 +1,4 @@
-<p>Information</p>
+# Information
  
 ## Game Title
 Grimoire: Manastorm
