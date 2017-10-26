@@ -28,7 +28,10 @@ data that needs to be read back in at a later time so the game can continue.
 * Test Description/Purpose:
   * Confirm that the save function is only available in story mode and saves certain aspects of the game.
 * Pre-Test Conditions:
-  * Description
+  * Launch Story mode
+  * Play a few minutes of the game before saving
+  * Document character location, current game variables, and assets
+  
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
