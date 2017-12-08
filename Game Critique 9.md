@@ -2,7 +2,7 @@
 ## Game Title
 Evil Cogs
 ## Game Type
-
+platformer
 ## Platform
 phone/tablet
 ## Game Rating
